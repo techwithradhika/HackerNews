@@ -23,7 +23,7 @@ Ensure you have the following installed:
     ```
     After cloning repo, Navigate to the project directory:
     ```bash
-    cd HackerNewsAPI
+    cd HackerNews
     ```
 
 2. **Build and Start Services:**
