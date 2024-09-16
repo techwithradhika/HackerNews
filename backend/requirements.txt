@@ -1,0 +1,6 @@
+fastapi==0.75.1
+uvicorn==0.17.6
+requests==2.27.1
+pytest==7.1.2
+python-dotenv==0.21.0
+pytz==2023.3
